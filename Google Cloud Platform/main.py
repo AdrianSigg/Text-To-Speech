@@ -1,7 +1,7 @@
 from google.cloud import texttospeech
 import os
 
-credentials_path = "C:/Users/mrfun/OneDrive/Documentos/Cloud/GPC/Credentials/texttospeech-402620-562568bdead6.json"
+credentials_path = "C:/Users/mrfun/OneDrive/Documentos/Cloud/GPC/Credentials/****.json"
 
 # Define las credenciales de GCP
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
